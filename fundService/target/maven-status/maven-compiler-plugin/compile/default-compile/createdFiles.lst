@@ -1,0 +1,6 @@
+com/codingcure/config/CachingConfig.class
+com/codingcure/fundservice/controller/FundController.class
+com/codingcure/fundservice/entity/Fund.class
+com/codingcure/fundservice/FundServiceApplication.class
+com/codingcure/fundservice/service/FundService.class
+com/codingcure/fundservice/repositary/FundRepo.class
